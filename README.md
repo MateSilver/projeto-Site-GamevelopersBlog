@@ -1,7 +1,7 @@
 # projeto Site-GamevelopersBlog
-~site ficticio de desenvolvedores de games~
+site ficticio de desenvolvedores de games
  
- *feito pra treinamento em desenvolvimento de sites*
+*feito pra treinamento em desenvolvimento de sites*
 ### usado nesse projeto:
 1. [XAMPP](https://www.apachefriends.org/pt_br/index.html)
 2. [Wordpress](https://wordpress.org/)
