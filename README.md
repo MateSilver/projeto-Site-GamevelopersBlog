@@ -30,3 +30,4 @@ site ficticio de desenvolvedores de games
 1. home
 2. sobre
 3. últimas notícias + posts
+4. política de privacidade
