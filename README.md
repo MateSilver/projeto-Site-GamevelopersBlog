@@ -15,6 +15,7 @@ site ficticio de desenvolvedores de games
 * Akissmet anti-spam
 * ultimate addons for guttenberg
 * WPForms Lite
+* simple Light box
 ### Baco de Dados:
 
 | nome               | 127.0.0.1    |
