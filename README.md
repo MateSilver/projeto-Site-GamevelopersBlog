@@ -1,5 +1,8 @@
 # projeto Site-GamevelopersBlog
 site ficticio de desenvolvedores de games
+
+**atenção: devido á problemas de tamanho de arquivos a pasta**
+**wp-content está comprimida em formato 7z**
  
 *feito pra treinamento em desenvolvimento de sites*
 ### usado nesse projeto:
