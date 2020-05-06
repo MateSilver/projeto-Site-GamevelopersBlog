@@ -35,3 +35,6 @@ site ficticio de desenvolvedores de games
 2. sobre
 3. últimas notícias + posts
 4. política de privacidade
+
+todos os arquivos em drive:
+https://drive.google.com/open?id=14pr7_WGQ9SFelZiagksw_w2Rf-thW05G
